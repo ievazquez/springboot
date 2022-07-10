@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="WSL - WLinux" type="wsl" uuid="dc6f5476-a557-4a34-a353-73f1559106b5">
+        <config>
+          <option name="distributionMsId" value="WLinux" />
+          <option name="projectRootOnTarget" value="/c/Users/Iván Vázquez/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/221.5921.22/jbr/bin&#10;/springboot" />
+        </config>
+      </target>
+    </targets>
+  </component>
+</project>
